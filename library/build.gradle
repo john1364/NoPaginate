@@ -38,11 +38,11 @@ dependencies {
 
 }
 
-/*publish {
-    groupId = 'ru.alexbykov'
-    artifactId = 'nopaginate'
-    publishVersion = '1.0.0'
-    desc = 'Pagination library for Android'
-    licences = ['Apache-2.0']
-    website = 'https://github.com/john1364/NoPaginate'
-}*/
+//publish {
+//    groupId = 'com.github.john1364'
+//    artifactId = 'nopaginate'
+//    publishVersion = '1.0.0'
+//    desc = 'Pagination library for Android'
+//    licences = ['Apache-2.0']
+//    website = 'https://github.com/john1364/NoPaginate'
+//}
