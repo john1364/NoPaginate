@@ -2,12 +2,9 @@ package ru.alexbykov.pagination.presenters;
 
 import android.util.Log;
 
-import ru.alexbykov.nopaginate.callback.OnLoadMore;
 import ru.alexbykov.nopaginate.callback.OnLoadMoreListener;
 import ru.alexbykov.pagination.utils.MockUtils;
 import ru.alexbykov.pagination.views.IMainActivityView;
-
-import static android.content.ContentValues.TAG;
 
 /**
  * Created by Alex Bykov on 11.08.2017.
@@ -28,6 +25,7 @@ public class MainActivityPresenter implements OnLoadMoreListener {
     }
 
 
+    @SuppressWarnings({"SameParameterValue", "unused"})
     private void getItems(int limit, int offset) {
         view.showPaginateError(false);
         view.showPaginateLoading(true);
