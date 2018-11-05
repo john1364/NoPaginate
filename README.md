@@ -19,7 +19,7 @@ Loading Item           |  Error Item
 ### Gradle
 
 ```
-implementation 'ru.alexbykov:nopaginate:0.9.9'
+implementation 'com.github.john1364:NoPaginate:1.0.1'
 ```
 
 ### Install
