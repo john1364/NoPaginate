@@ -1,4 +1,4 @@
-# NoPaginate
+# NoPaginate (AndroidX)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-NoPaginate-blue.svg?style=flat)](https://android-arsenal.com/details/1/6300)
 [![androidweekly.cn](https://img.shields.io/badge/androidweekly.cn-%23156-red.svg)](http://androidweekly.cn/android-dev-weekly-issue-156/)
  [ ![Download](https://api.bintray.com/packages/nonews/maven/nopaginate/images/download.svg) ](https://bintray.com/nonews/maven/nopaginate/_latestVersion)
